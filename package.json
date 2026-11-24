@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "node preview.cjs",
-    "check": "node --check dist/script.js && node --check dist/translations.js && node --check preview.cjs"
+    "check": "node --check dist/script.js && node --check dist/translations.js && node --check preview.cjs",
+    "build": "node prepare-pages.cjs dist"
   }
 }

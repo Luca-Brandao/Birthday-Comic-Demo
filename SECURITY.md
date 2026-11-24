@@ -4,7 +4,7 @@ This repository is a sanitised portfolio demo. It is separate from the private p
 
 - All displayed people, messages, event details and images are fictional placeholders.
 - No bank details, private photographs, production credentials, live RSVP widget or private database are included.
-- There are no deployment workflows, deployment credentials or connections to the original production project.
+- The demo has no deployment credentials or connection to the original personal project. GitHub Pages serves only the sanitised docs folder.
 - Local development binds to loopback. Do not expose a development server to the internet.
 - Keep dependencies updated and run an audit before deploying your own copy.
 - Do not put credentials, guest lists, database exports or personal content into commits. Use a secret manager or environment variables for server-side credentials.
