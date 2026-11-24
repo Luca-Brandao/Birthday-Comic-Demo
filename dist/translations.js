@@ -70,9 +70,9 @@ const portuguese = {
   "THAT'S OUR DAD.": "É MESMO O NOSSO PAI.",
   "The best adventures are shared.": "As melhores aventuras vivem-se juntos.",
   "Expand Dad and his partner in the garden":
-    "Ampliar a fotografia do Pai e da Contributor One no jardim",
+    "Ampliar a fotografia do Pai e da Casey no jardim",
   "Dad and his partner smiling together beside pink flowers":
-    "O Pai e a Contributor One a sorrir juntos ao pé de flores cor-de-rosa",
+    "O Pai e a Casey a sorrir juntos ao pé de flores cor-de-rosa",
   "BETTER, TOGETHER.": "JUNTOS, É MELHOR.",
   "The little moments. The biggest memories.":
     "Pequenos momentos. Grandes memórias.",

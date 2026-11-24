@@ -1,23 +1,23 @@
 const messageData = [
   {
-    "author": "CONTRIBUTOR 1",
+    "author": "CASEY · YOUR PARTNER",
     "lang": "en",
-    "text": "This is a fictional sample birthday message used to demonstrate the accordion interface. Personal messages from the original project are not included."
+    "text": "Happy 50th, Alex! Life with you has been one long collection of little adventures: Sunday breakfasts, road trips with the wrong turn, and projects that somehow need one more trip to the hardware shop. Thank you for making our home such a warm, happy place. Here is to the next chapter, together."
   },
   {
-    "author": "CONTRIBUTOR 2",
+    "author": "JAMIE · YOUR DAUGHTER",
     "lang": "en",
-    "text": "This is a fictional sample birthday message used to demonstrate the accordion interface. Personal messages from the original project are not included."
+    "text": "Happy birthday, Dad! Thank you for teaching me to ride a bike, cheering the loudest at every school event, and always picking up the phone when I need advice. Your terrible jokes are still terrible, but I would not change a thing. Love you, and I cannot wait for our next family adventure."
   },
   {
-    "author": "CONTRIBUTOR 3",
+    "author": "SAM · YOUR SON",
     "lang": "en",
-    "text": "This is a fictional sample birthday message used to demonstrate the accordion interface. Personal messages from the original project are not included."
+    "text": "Fifty years and still convinced you can beat us at every game! Thanks for the weekend braais, the patient driving lessons, and showing me how to fix things before giving up. You have a way of turning an ordinary afternoon into a great memory. Have the best birthday, Dad."
   },
   {
-    "author": "CONTRIBUTOR 4",
+    "author": "JORDAN · YOUR FRIEND",
     "lang": "en",
-    "text": "This is a fictional sample birthday message used to demonstrate the accordion interface. Personal messages from the original project are not included."
+    "text": "To fifty years of Alex: dependable friend, enthusiastic storyteller, and the only person who can make a quick fishing trip last an entire weekend. Here is to more early starts, questionable playlists, and stories that get a little better every time we tell them. Cheers, my friend!"
   }
 ];
 const stack = document.querySelector("#message-stack");

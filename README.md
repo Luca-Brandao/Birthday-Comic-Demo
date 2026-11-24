@@ -47,3 +47,7 @@ The original project and its history remain private. This edition has its own co
 Run `npm run build` to regenerate `docs/`, then commit the updated output. In the repository's Pages settings, publish the `main` branch and `/docs` folder. This deployment is separate from the original personal site.
 
 `docs/.nojekyll` preserves the generated static files. The generated HTML includes a resource Content Security Policy and no-referrer policy. GitHub Pages does not apply the `_headers` file used by other hosts, so those host-specific HTTP header settings are not claimed here.
+
+## Demonstration content
+
+The public edition contains original fictional copy so visitors can explore a coherent example. Names, personal stories, locations and guest responses are invented. No real event, private photographs, production database, payment details or external RSVP service is connected.
